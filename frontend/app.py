@@ -5,9 +5,8 @@ import random
 from typing import Any
 
 import streamlit as st
-import frontend.api_client
-from frontend.api_client import APIError
-
+import api_client
+from api_client import APIError
 st.set_page_config(
     page_title="Grand Line Navigator",
     page_icon="☠️",
