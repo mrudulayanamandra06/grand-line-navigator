@@ -5,7 +5,7 @@ import random
 from typing import Any
 
 import streamlit as st
-import frontend.api_client as api_client
+import frontend.api_client
 from frontend.api_client import APIError
 
 st.set_page_config(
