@@ -1,4 +1,4 @@
-# Grand Line Navigator ☠️
+# Grand Line Navigator 
 
 A One Piece command deck and voyage planning application connecting a Streamlit frontend to a modular Flask REST API backend with SQLite persistence.
 
